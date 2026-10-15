@@ -2,7 +2,7 @@
 
 **IT**  
 # **Analisi Business Intelligence AdventureWorks**  
-*(Luglio 2017 - Gennaio 2021, Progetto di gruppo)*  
+*(Dataset Luglio 2017 - Gennaio 2021, Progetto di gruppo)*  
 
 Il progetto ha riguardato l'analisi completa del dataset AdventureWorks, azienda specializzata nella vendita al dettaglio di biciclette e accessori correlati. L'obiettivo è stato quello di sviluppare un report dinamico in Power BI per analizzare performance di vendita, trend temporali e fattori chiave che influenzano i ricavi nel periodo 2017-2021.  
 Durante la fase di preparazione dati, sono state combinate le tabelle factinternetsales e factresellersales in un'unica tabella Sales ottimizzata per il refresh schedulato. Sono state unificato le tabelle dimproduct, dimproductsubcategory e dimproductcategory tramite join per creare la tabella Product, importando solo i record necessari dalla tabella dimemployee (SalespersonFlag = True) per ottimizzare le prestazioni.  
@@ -18,7 +18,7 @@ Il risultato è un report interattivo multi-pagina con confronti ricavi/costi ne
 
 ## **EN**
 # **AdventureWorks Business Intelligence Analysis**  
-*(July 2017 - January 2021 | Power BI Team Project)*  
+*(Dataset July 2017 - January 2021 | Power BI Team Project)*  
 
 This **team project** involved comprehensive analysis of the AdventureWorks dataset, a company specializing in bicycle and related accessories retail. The objective was to develop a dynamic Power BI report to analyze sales performance, temporal trends, and key factors influencing revenue during the 2017-2021 period.
 
